@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with Kotlin
 - 📫 How to reach me: contact@baptiste-coutant.fr
 - 😄 Pronouns: Dynamic, like to learn
-- ⚡ Fun fact: I've always been the youngest in the corporate world
+- ⚡ Fun fact: I've always been the youngest in business
 
