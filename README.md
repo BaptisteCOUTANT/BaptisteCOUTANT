@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Agence Maven
 - :heart: I'm a Symfony and Symfony UX Developer
-- 🌱 I’m currently learning Flutter, React and Api Platform
+- 🌱 I’m currently learning Flutter, React, Angular and Api Platform
 - 👯 I collaborate with my colleague @FlorentGautron
 - 🤔 I’m looking for help with Kotlin
 - 📫 How to reach me: contact@baptiste-coutant.fr
